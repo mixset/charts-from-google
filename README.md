@@ -1,6 +1,6 @@
-charts from google
+Wykresy od Google
 ==================
-This is a file, which present some charts from google.
-It is ideal way to present many datas like growing pagerank, amount of registered users etc.
+Plik index.html zawiera trzy przykładowe wykresy, które zostały stworzone przez firmę Google.
+Idealnie nadają się do panelu administratora. Przykładowo mogą pokazywać wzrost PageRank naszej strony.
 
-[See more charts](https://developers.google.com/chart/?hl=pl)
+[Zobacz więcej wykresów](https://developers.google.com/chart/?hl=pl)
