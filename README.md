@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-charts-from-google
+Charts from Google
 ==================
-=======
-Wykresy od Google
-==================
-Plik index.html zawiera trzy przykładowe wykresy, które zostały stworzone przez firmę Google.
-Idealnie nadają się do panelu administratora. Przykładowo mogą pokazywać wzrost PageRank naszej strony.
+`index.html` contains three examples of charts, which have been creating by Google Inc.
+They are ideal for showing a great variety of date on website or in admin page, eg. they can show our website's PageRank.
 
-[Zobacz więcej wykresów](https://developers.google.com/chart/?hl=pl)
->>>>>>> 66df0e6d2e7d0067beac0e249251a8a7cf501263
+==================
+If you want check another charts, please visit [this wpage](https://developers.google.com/chart/?hl=pl)
+
