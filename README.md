@@ -1,8 +1,12 @@
-Charts from Google
-==================
-`index.html` contains three examples of charts, which have been creating by Google Inc.
-They are ideal for showing a great variety of date on website or in admin page, eg. they can show our website's PageRank.
+# Charts from Google
 
-==================
-If you want check another charts, please visit [this wpage](https://developers.google.com/chart/?hl=pl)
+## Description
+`src/index.html` contains some simple examples of charts, which have been created by Google Inc.
+They are amazing for displaying a great variety of information on website or in admin page, like:
+* website's PageRank.
+* traffic across our application
+* monitoring resources and errors
+* sale growth of some product
 
+## Need more?
+If there is no chart, that you need - please visit [homepage of project](https://developers.google.com/chart/?hl=pl)
